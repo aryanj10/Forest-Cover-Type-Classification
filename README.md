@@ -1,4 +1,4 @@
-# Forest-Cover-Type-Classification
+# Forest Cover Type Classifier
 
 Forest cover in general refers to the relative (in percent) or sure (in square kilometres/square miles) land area that is covered by forests.
 According to the Food and Agriculture Organization, a forest is defined as land spanning more than 0.5 hectares with trees higher than 5 meters and a canopy cover of more than 10 percent, or trees able to reach these thresholds in situ. It does not include land that is predominantly under agricultural or urban land use. Forest cover is one category of terrestrial land cover. Land cover is the observed physical features, both natural and manmade, that occupy the earth’s immediate surface ... forest cover is defined as 25% or greater canopy closure at the Landsat pixel scale (30-m × 30-m spatial resolution) for trees >5 m in height. 
